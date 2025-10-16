@@ -1,0 +1,21 @@
+{
+  "name": "maplefizz-dark",
+  "displayName": "MapleFizz Dark",
+  "description": "MapleFizz theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MapleFizz Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MapleFizz Dark-color-theme.json"
+      }
+    ]
+  }
+}
