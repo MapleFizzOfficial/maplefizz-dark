@@ -1,16 +1,50 @@
-# maplefizz-dark README
+# MapleFizz Dark
 
-## Working with Markdown
+A dark theme for Visual Studio Code featuring warm, maple-inspired colors with a focus on readability and comfort during long coding sessions.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **Dark UI Theme**: Built on VS Code's dark theme foundation
+- **Warm Color Palette**: Features maple-inspired colors including deep burgundy (#6A103B) and vibrant pink accents (#FF2F92)
+- **High Contrast**: Optimized for readability with carefully chosen color combinations
+- **Syntax Highlighting**: Comprehensive color scheme for all supported programming languages
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open VS Code
+2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
+3. Search for "MapleFizz Dark"
+4. Click Install
 
-**Enjoy!**
+## Usage
+
+1. Open VS Code
+2. Press Ctrl+Shift+P (Cmd+Shift+P on macOS) to open the Command Palette
+3. Type "Preferences: Color Theme"
+4. Select "MapleFizz Dark" from the list
+
+## Color Palette
+
+- **Background**: Deep charcoal (#0F0D0E)
+- **Primary Accent**: Maple burgundy (#6A103B)
+- **Secondary Accent**: Vibrant pink (#FF2F92)
+- **Text**: Light gray (#C0C0C0)
+- **Cursor**: Hazard Yellow (#DCF763)
+
+## Special Thanks
+
+Special thanks to [CoderCoder](https://github.com/thecodercoder) for creating helpful videos and sharing their theme generator with the public, which made the development of this theme possible.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit issues and pull requests.
+
+## License
+
+This theme is open source and available under the MIT License.
+
+## Contact
+
+- **Author**: MapleFizz
+- **Email**: hello@maplefizz.ca
+- **Repository**: [GitHub](https://github.com/MapleFizzOfficial/maplefizz-dark)

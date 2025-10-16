@@ -3,6 +3,20 @@
   "displayName": "MapleFizz Dark",
   "description": "MapleFizz theme",
   "version": "0.0.1",
+  "publisher": "MapleFizz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MapleFizzOfficial/maplefizz-dark"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "maplefizz"
+  ],
+  "author": {
+    "name": "MapleFizz",
+    "email": "hello@maplefizz.ca"
+  },
   "engines": {
     "vscode": "^1.105.0"
   },
