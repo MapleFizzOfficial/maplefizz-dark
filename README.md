@@ -1,50 +1,81 @@
 # MapleFizz Dark
 
-A dark theme for Visual Studio Code featuring warm, maple-inspired colors with a focus on readability and comfort during long coding sessions.
+**Version 0.1.0** — The MapleFizz refresh 🌙🍁
 
-## Features
+A modern dark theme for Visual Studio Code featuring the signature **MapleFizz candy-plum palette** — refined for clarity, balance, and warmth.  
+This update brings a deeper mauve base, stronger hover feedback, refined line highlights, and polished UI contrasts for better everyday usability.
 
-- **Dark UI Theme**: Built on VS Code's dark theme foundation
-- **Warm Color Palette**: Features maple-inspired colors including deep burgundy (#6A103B) and vibrant pink accents (#FF2F92)
-- **High Contrast**: Optimized for readability with carefully chosen color combinations
-- **Syntax Highlighting**: Comprehensive color scheme for all supported programming languages
+---
 
-## Installation
+## ✨ What’s New in v0.1.0
 
-1. Open VS Code
-2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
-3. Search for "MapleFizz Dark"
-4. Click Install
+- **Rebalanced Base Tone** → replaced harsh blacks with rich mauve charcoal `#221C26`
+- **Improved Readability** → refined contrasts, softer text luminance, smoother focus transitions
+- **Candy-Pop Interactivity** → brighter hover and selection states using brand pink `#FF2F92`
+- **Plum Line Highlight** → subtle `#221C26` glow behind your active line — visible, not noisy
+- **Status & Badge Fixes** → corrected badge contrast and folderless status bar visibility
+- **Consistent Brand Use** → restricted palette to core MapleFizz tones:  
+  `#6A103B`, `#941751`, `#FF2F92`, `#DCF763`, `#221C26`
 
-## Usage
+---
 
-1. Open VS Code
-2. Press Ctrl+Shift+P (Cmd+Shift+P on macOS) to open the Command Palette
-3. Type "Preferences: Color Theme"
-4. Select "MapleFizz Dark" from the list
+## 🎨 Core Palette
 
-## Color Palette
+| Role | Color | Description |
+|------|--------|-------------|
+| **Background** | `#121016` / `#221C26` | Deep mauve charcoal base |
+| **Primary Accent** | `#6A103B` | Maple plum |
+| **Secondary Accent** | `#FF2F92` | Vibrant candy pink |
+| **Highlight** | `#DCF763` | Warm yellow highlight |
+| **Foreground** | `#E5E5E8` | Soft white text |
 
-- **Background**: Deep charcoal (#0F0D0E)
-- **Primary Accent**: Maple burgundy (#6A103B)
-- **Secondary Accent**: Vibrant pink (#FF2F92)
-- **Text**: Light gray (#C0C0C0)
-- **Cursor**: Hazard Yellow (#DCF763)
+---
 
-## Special Thanks
+## 💻 Features
 
-Special thanks to [CoderCoder](https://github.com/thecodercoder) for creating helpful videos and sharing their theme generator with the public, which made the development of this theme possible.
+- **Dark UI Foundation** — designed for comfort during long coding sessions  
+- **Refined Contrast** — eliminates glare and low-contrast zones  
+- **Comprehensive Syntax Highlighting** — calibrated for JS, TS, HTML, CSS, Markdown, JSON, and more  
+- **MapleFizz Identity** — vivid but balanced; form meets function
 
-## Contributing
+---
 
-Contributions are welcome! Please feel free to submit issues and pull requests.
+## 📦 Installation
 
-## License
+1. Open **VS Code**
+2. Go to **Extensions** (`Ctrl+Shift+X` / `Cmd+Shift+X`)
+3. Search for **"MapleFizz Dark"**
+4. Click **Install**
 
-This theme is open source and available under the MIT License.
+---
 
-## Contact
+## 🧭 Usage
 
-- **Author**: MapleFizz
-- **Email**: hello@maplefizz.ca
-- **Repository**: [GitHub](https://github.com/MapleFizzOfficial/maplefizz-dark)
+1. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
+2. Type **“Preferences: Color Theme”**
+3. Select **“MapleFizz Dark”**
+
+---
+
+## 🧪 Contributing
+
+Feedback and contributions are welcome!  
+If you notice an off-brand color, inconsistency, or readability issue, please open an [issue](https://github.com/MapleFizzOfficial/maplefizz-dark/issues) or submit a pull request.
+
+---
+
+## ❤️ Special Thanks
+
+Inspired by [CoderCoder](https://github.com/thecodercoder) for sharing resources that helped make theme creation accessible.
+
+---
+
+## 📄 License
+
+Released under the **MIT License**.
+
+---
+
+**Author:** MapleFizz  
+**Email:** hello@maplefizz.ca  
+**Repository:** [github.com/MapleFizzOfficial/maplefizz-dark](https://github.com/MapleFizzOfficial/maplefizz-dark)
