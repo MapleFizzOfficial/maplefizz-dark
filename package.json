@@ -2,7 +2,7 @@
   "name": "maplefizz-dark",
   "displayName": "MapleFizz Dark",
   "description": "MapleFizz theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "MapleFizz",
   "repository": {
     "type": "git",
@@ -11,7 +11,10 @@
   "keywords": [
     "theme",
     "dark",
-    "maplefizz"
+    "maplefizz",
+    "dark theme",
+    "maplefizz dark",
+    "maplefizz dark theme"
   ],
   "author": {
     "name": "MapleFizz",
